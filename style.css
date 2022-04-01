@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(138, 106, 168);
+}
+
+#clock {
+    margin-top: 200px;
+    font-size: 150px;
+    text-align: center;
+    color: cornsilk;
+    text-shadow: 2px 4px rgb(75, 70, 70);
+}
